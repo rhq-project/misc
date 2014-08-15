@@ -5,7 +5,7 @@
 
   <groupId>org.rhq.misc</groupId>
   <artifactId>misc</artifactId>
-  <version>0.1</version>
+  <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Miscellaneous stuff around RHQ</name>
@@ -29,6 +29,15 @@
     <fastBuild>false</fastBuild>
   </properties>
 
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.5</version>
+      </plugin>
+    </plugins>
+  </build>
   <distributionManagement>
 
     <snapshotRepository>
