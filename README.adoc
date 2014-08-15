@@ -1,4 +1,7 @@
-misc
-====
+= Misc
+:source-language: java
+
 
 Random things around RHQ that are not part of the (core) functionality
+
+* cs-stuff : Hepers around Checkstyle
