@@ -10,6 +10,7 @@
 
   <artifactId>checkstyle-stuff</artifactId>
   <name>RHQ Extensions to checkstyle</name>
+  <description>RHQ Extensions to checkstyle</description>
 
   <dependencies>
     <dependency>

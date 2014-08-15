@@ -6,6 +6,8 @@
   <artifactId>misc</artifactId>
   <version>0.1.2-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <description>Collection of miscellaneous stuff around RHQ, which is not part of the main project</description>
+  <url>https://github.com/rhq-project/misc</url>
 
   <name>Miscellaneous stuff around RHQ</name>
 
@@ -52,5 +54,13 @@
     </repository>
 
   </distributionManagement>
+
+  <developers>
+    <developer>
+      <id>pilhuhn</id>
+      <name>Heiko W. Rupp</name>
+      <timezone>Europe/Paris</timezone>
+    </developer>
+  </developers>
 
 </project>
