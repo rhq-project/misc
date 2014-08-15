@@ -5,7 +5,7 @@
 
   <groupId>org.rhq.misc</groupId>
   <artifactId>misc</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Miscellaneous stuff around RHQ</name>
@@ -16,7 +16,7 @@
 
   <scm>
     <connection>scm:git:git://github.com/rhq-project/.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/rhq-project/misc.git</developerConnection>
+    <developerConnection>scm:git:https://git@github.com/rhq-project/misc.git</developerConnection>
     <url>https://github.com/rhq-project/misc</url>
     <tag>HEAD</tag>
   </scm>
